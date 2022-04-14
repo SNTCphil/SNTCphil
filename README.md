@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SNTCphil
-- 👀 I’m interested in WEB/APP DEV (NodeJS/PHP/JS/HTML/CSS)
-- 🌱 I’m currently learning NODEJS
+- 👀 I’m interested in {"WEB_DEV", "APP_DEV"}
+- 🖥️ I´m coding in ["NodeJS", "PHP", "JS", "HTML", "CSS"]
+- 🌱 I’m currently learning console.log("NodeJS")
 - 💞️ I’m looking to collaborate on NULL
 - 📫 How to reach me NULL
 
